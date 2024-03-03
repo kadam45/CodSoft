@@ -1,5 +1,5 @@
-                   CALCULATOR:
-RESULT: [Calculator Demo Link](https://melodic-pony-a8e03e.netlify.app/)
+CALCULATOR:
+RESULT/OUTPUT: [Calculator Demo Link](https://melodic-pony-a8e03e.netlify.app/)
 
   IMAGE:
   
@@ -7,8 +7,8 @@ RESULT: [Calculator Demo Link](https://melodic-pony-a8e03e.netlify.app/)
 
 ![image](https://github.com/kadam45/CodSoft/assets/153412193/23d49c05-f2e6-4f00-ae10-5ac53220db1d)
                      
-                   LANDING PAGE:
-RESULT: [landing Page Demo Link](https://joyful-cajeta-c2e9a7.netlify.app/)
+LANDING PAGE:
+RESULT/OUTPUT: [landing Page Demo Link](https://joyful-cajeta-c2e9a7.netlify.app/)
 
 IMAGE:
 
