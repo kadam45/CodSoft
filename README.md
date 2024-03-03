@@ -5,12 +5,8 @@ OUTPUT : [CALCULATOR](https://melodic-pony-a8e03e.netlify.app/)
   
 ![image](https://github.com/kadam45/CodSoft/assets/153412193/52838ba5-63a5-4e4b-83e6-6754ce23ea8b)
 
-
-
-                  
-                   
-                   
-                   
+![image](https://github.com/kadam45/CodSoft/assets/153412193/23d49c05-f2e6-4f00-ae10-5ac53220db1d)
+                     
                    LANDING PAGE:
 OUTPUT: [LANDING PAGE](https://joyful-cajeta-c2e9a7.netlify.app/)
 
