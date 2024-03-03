@@ -1,11 +1,16 @@
                    CALCULATOR:
 OUTPUT : [CALCULATOR](https://melodic-pony-a8e03e.netlify.app/)
 
-IMAGE:
+  IMAGE:
+  
 ![image](https://github.com/kadam45/CodSoft/assets/153412193/52838ba5-63a5-4e4b-83e6-6754ce23ea8b)
 
 
 
+                  
+                   
+                   
+                   
                    LANDING PAGE:
 OUTPUT: [LANDING PAGE](https://joyful-cajeta-c2e9a7.netlify.app/)
 
