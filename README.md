@@ -18,4 +18,16 @@ IMAGE:
 ![image](https://github.com/kadam45/CodSoft/assets/153412193/f1bfe2cb-1f17-41df-a957-c57dcb6def1c)
 
 
+![image](https://github.com/kadam45/CodSoft/assets/153412193/23d49c05-f2e6-4f00-ae10-5ac53220db1d)
+
+
+                              PORTFOLIO
+RESULT/OUTPUT:  [Click here for Portfolio Demo Link](https://tranquil-figolla-12fc96.netlify.app/)
+
+IMAGE:
+
+![image](https://github.com/kadam45/CodSoft/assets/153412193/7eaaa484-fd5a-4040-8fea-50fc3d04faf8)
+
+
+
 
